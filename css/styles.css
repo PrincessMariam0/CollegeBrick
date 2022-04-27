@@ -185,3 +185,22 @@ p {
 
   }
 }
+.courses{
+  margin: 10%;
+}
+.btn-secondary{
+  padding: 15px;
+  margin: 10px;
+}
+.btn-success{
+  padding: 15px;
+  margin: 10px;
+}
+.btn-info{
+  padding: 15px;
+  margin: 10px;
+}
+.section4{
+  margin-left: 20%;
+  margin-bottom: 10%;
+}
